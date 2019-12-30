@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1540956779 source:c:\users\kyle\desktop\codeblocks\quicksort\main.cpp
+	<vector>
+	<iostream>
+	<stdlib.h>
+	"quicksort.cpp"
+	"arrayOps.cpp"
+
+1540953558 c:\users\kyle\desktop\codeblocks\quicksort\driver_topx.cpp
+	<vector>
+	<stdlib.h>
+	"quicksort.cpp"
+
+1540953707 c:\users\kyle\desktop\codeblocks\quicksort\quicksort.cpp
+	<vector>
+
+1540948871 c:\users\kyle\desktop\codeblocks\quicksort\arrayops.cpp
+	<vector>
+	<iostream>
+	<stdlib.h>
+
